@@ -89,3 +89,20 @@ button.roll-dice {
     white-space: nowrap;
     border: 0;
 }
+.counter_container {
+    background-color:burlywood;
+    border-radius: 8px;
+    padding: 3px 6px;
+    margin-bottom: 10px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+
+}
+.counter {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 7px;
+
+}
